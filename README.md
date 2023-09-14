@@ -1,2 +1,2 @@
-# voting_System
+# polling_System
 I developed this voting system using PHP 
